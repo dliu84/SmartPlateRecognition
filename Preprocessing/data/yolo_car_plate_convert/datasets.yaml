@@ -1,0 +1,14 @@
+
+# root dir
+path: D:\Seneca\CVI\WS\Final_project\Preprocessing\data/yolo_car_plate_convert/
+
+# Directories
+train: train/images
+val: val/images
+
+# number of class
+nc: 1
+
+# class name
+names: ['licence_plate']
+
