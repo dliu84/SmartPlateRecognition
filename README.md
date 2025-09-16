@@ -41,8 +41,11 @@ Thank you for your valuable contributions to this project!
 
 ## References
 
-- 10 products for parking lot and garage safety. (n.d.). Eagle Justrite Safety Group. https://eagle.justrite.com/news/10-products-for-parking-lot-and-garage-safety/
-- Myriamgam. (2024, November 19). training object detection with yolov10. Kaggle. https://www.kaggle.com/code/myriamgam62/training-object-deteciton-with-yolov10
-- Sanyam, & Sanyam. (2024, March 19). Automatic License Plate Recognition using Deep Learning ALPR. LearnOpenCV – Learn OpenCV, PyTorch, Keras, Tensorflow With Code, & Tutorials. https://learnopencv.com/automatic-license-plate-recognition-using-deep-learning/
-- Python Geeks Team. (n.d.). Python OpenCV detect and recognize car license plate. Python Geeks. https://pythongeeks.org/python-opencv-detect-and-recognize-car-license-plate/
+- 10 products for parking lot and garage safety. (n.d.). Eagle Justrite Safety Group.
+  https://eagle.justrite.com/news/10-products-for-parking-lot-and-garage-safety/
+- Myriamgam. (2024, November 19). training object detection with yolov10. Kaggle.
+  https://www.kaggle.com/code/myriamgam62/training-object-deteciton-with-yolov10
+- Sanyam, & Sanyam. (2024, March 19). Automatic License Plate Recognition using Deep Learning ALPR. LearnOpenCV – Learn OpenCV, PyTorch, Keras, Tensorflow With Code, & Tutorials.     https://learnopencv.com/automatic-license-plate-recognition-using-deep-learning/
+- Python Geeks Team. (n.d.). Python OpenCV detect and recognize car license plate. Python Geeks.
+  https://pythongeeks.org/python-opencv-detect-and-recognize-car-license-plate/
 
