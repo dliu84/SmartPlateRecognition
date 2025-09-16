@@ -41,8 +41,8 @@ Thank you for your valuable contributions to this project!
 
 ## References
 
-- <small>10 products for parking lot and garage safety. (n.d.). Eagle Justrite Safety Group.</small>
-  <small>https://eagle.justrite.com/news/10-products-for-parking-lot-and-garage-safety/</small>
+- <sub>10 products for parking lot and garage safety. (n.d.). Eagle Justrite Safety Group.</sub>
+  <sub>https://eagle.justrite.com/news/10-products-for-parking-lot-and-garage-safety/</sub>
 - Myriamgam. (2024, November 19). training object detection with yolov10. Kaggle.
   https://www.kaggle.com/code/myriamgam62/training-object-deteciton-with-yolov10
 - Sanyam, & Sanyam. (2024, March 19). Automatic License Plate Recognition using Deep Learning ALPR. LearnOpenCV – Learn OpenCV, PyTorch, Keras, Tensorflow With Code, & Tutorials.
