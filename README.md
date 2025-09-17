@@ -50,3 +50,8 @@ Thank you for your valuable contributions to this project!
 - <sub>Python Geeks Team. (n.d.). Python OpenCV detect and recognize car license plate. Python Geeks.</sub>
   <sub>https://pythongeeks.org/python-opencv-detect-and-recognize-car-license-plate/</sub>
 
+## Citation
+
+If you use this project in your work, please cite it as follows:
+
+> Di Liu (2025). *SmartPlateRecognition_YOLO_OpenCV  *. GitHub. [https://github.com/dliu84/SmartPlateRecognition_YOLO_OpenCV  ](https://github.com/dliu84/SmartPlateRecognition_YOLO_OpenCV  )
