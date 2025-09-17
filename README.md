@@ -54,4 +54,4 @@ Thank you for your valuable contributions to this project!
 
 If you use this project in your work, please cite it as follows:
 
-> Di Liu (2025). *SmartPlateRecognition_YOLO_OpenCV  *. GitHub. [https://github.com/dliu84/SmartPlateRecognition_YOLO_OpenCV  ](https://github.com/dliu84/SmartPlateRecognition_YOLO_OpenCV  )
+> Di Liu (2025). *SmartPlateRecognition_YOLO_OpenCV*. GitHub. [https://github.com/dliu84/SmartPlateRecognition_YOLO_OpenCV  ](https://github.com/dliu84/SmartPlateRecognition_YOLO_OpenCV  )
